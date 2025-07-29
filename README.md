@@ -1,0 +1,1 @@
+This lab explores image histograms and contrast enhancement techniques using OpenCV and Matplotlib. It demonstrates how to scale an image, compute RGB histograms, plot intensity distributions, and apply histogram equalization to improve contrast.
